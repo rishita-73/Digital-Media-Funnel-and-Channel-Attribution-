@@ -2,8 +2,7 @@
 02_load_to_sql.py
 Loads the CSVs in ./data into a local SQLite database (media_funnel.db).
 
-Run:    python 02_load_to_sql.py
-Output: media_funnel.db (in the project root)
+
 """
 
 import os
