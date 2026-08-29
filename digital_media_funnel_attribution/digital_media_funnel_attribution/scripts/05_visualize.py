@@ -3,8 +3,7 @@
 Generates the core charts: overall funnel, channel comparison (CAC and
 redemption rate), and funnel drop-off by channel.
 
-Run:    python 05_visualize.py
-Output: outputs/charts/*.png
+
 """
 
 import os
