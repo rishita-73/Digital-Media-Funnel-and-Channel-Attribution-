@@ -1,18 +1,9 @@
 """
 01_generate_data.py
-Generates a synthetic digital-media-funnel dataset for Amex Offers:
-customers, channels, and funnel_exposures (the fact table — an impression
+Generates a synthetic digital-media-funnel dataset for  card offers:
+customers, channels, and funnel_exposures (the fact table - an impression
 that may progress through click -> offer view -> redemption).
 
-Why synthetic: real channel-level media performance data isn't public.
-This generator uses a probability model per funnel stage (channel base
-rate x customer engagement x category appeal) so the channel differences
-you'll see downstream are real, explainable signal — e.g. owned channels
-(Push, In-App) converting better than paid reach channels (Display, Social)
-— not random noise.
-
-Run:    python 01_generate_data.py
-Output: data/customers.csv, data/channels.csv, data/funnel_exposures.csv
 """
 
 import os
