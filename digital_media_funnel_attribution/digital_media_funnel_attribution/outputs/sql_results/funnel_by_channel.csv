@@ -1,0 +1,7 @@
+channel_name,channel_type,impressions,clicks,offer_views,redemptions,ctr_pct,redemption_rate_pct,total_cost,total_redeemed_value
+In-App Banner,Owned,5682,822,713,311,14.47,5.473,8.52,28137.23
+Push Notification,Owned,11966,1465,1197,442,12.24,3.694,11.97,42710.82
+SMS,Paid,2384,187,145,41,7.84,1.72,119.2,3538.8
+Email,Owned,15799,962,710,194,6.09,1.228,31.6,19623.88
+Social Media Ad,Paid,20078,502,294,62,2.5,0.309,240.94,6152.82
+Display Ad,Paid,24091,208,104,17,0.86,0.071,192.73,1466.37

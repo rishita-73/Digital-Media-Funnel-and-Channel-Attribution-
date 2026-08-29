@@ -1,0 +1,7 @@
+channel_name,channel_type,impressions,clicks,redemptions,total_cost,total_transaction_value,ctr_pct,redemption_rate_pct,cac,value_per_dollar_spent,efficiency_rank
+Push Notification,Owned,11966,1465,442,11.966000000000001,42710.82,12.24,3.694,0.0271,3569.3,1
+In-App Banner,Owned,5682,822,311,8.523,28137.23,14.47,5.473,0.0274,3301.3,2
+Email,Owned,15799,962,194,31.598,19623.88,6.09,1.228,0.1629,621.0,3
+SMS,Paid,2384,187,41,119.2,3538.8,7.84,1.72,2.9073,29.7,4
+Social Media Ad,Paid,20078,502,62,240.936,6152.82,2.5,0.309,3.8861,25.5,5
+Display Ad,Paid,24091,208,17,192.728,1466.37,0.86,0.071,11.3369,7.6,6

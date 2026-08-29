@@ -1,0 +1,17 @@
+channel_type,category,impressions,redemption_rate_pct
+Owned,Dining,4288,3.242
+Owned,Entertainment,4149,3.181
+Owned,Fuel,4122,2.935
+Owned,Grocery,4139,2.923
+Owned,Health & Wellness,4261,2.91
+Owned,Retail,4189,2.817
+Owned,Travel,4210,2.399
+Owned,Electronics,4089,2.225
+Paid,Grocery,5894,0.39
+Paid,Dining,5762,0.382
+Paid,Entertainment,5843,0.257
+Paid,Retail,5767,0.243
+Paid,Health & Wellness,5847,0.222
+Paid,Travel,5705,0.21
+Paid,Fuel,5929,0.202
+Paid,Electronics,5806,0.155

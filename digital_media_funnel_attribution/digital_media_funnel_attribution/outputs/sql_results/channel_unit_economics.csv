@@ -1,0 +1,7 @@
+channel_name,cost_per_click,cost_per_offer_view,cost_per_redemption_cac,transaction_value_per_dollar_spent
+Push Notification,0.0082,0.01,0.0271,3569.3
+In-App Banner,0.0104,0.012,0.0274,3301.3
+Email,0.0328,0.0445,0.1629,621.0
+SMS,0.6374,0.8221,2.9073,29.7
+Social Media Ad,0.48,0.8195,3.8861,25.5
+Display Ad,0.9266,1.8532,11.3369,7.6
