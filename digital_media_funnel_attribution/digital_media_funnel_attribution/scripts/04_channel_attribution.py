@@ -5,17 +5,14 @@ and runs a budget-reallocation "what-if" simulation: what happens if spend
 shifts from the worst-performing paid channels to the best-performing
 owned channels?
 
-Important honesty note baked into this script's output: "revenue" here is
-the customer's transaction value at the merchant, not Amex's own booked
-revenue (which would be a fraction of that, e.g. interchange). The
+"revenue" here is the customer's transaction value at the merchant, not card-linked offers platform's
+own booked revenue (which would be a fraction of that, e.g. interchange). The
 reallocation simulation also assumes constant CAC as spend shifts, which
-is optimistic — owned channels (Push, In-App) have a natural impression
+is optimistic, owned channels (Push, In-App) have a natural impression
 ceiling (active app users), so real reallocation would hit diminishing
-returns well before the naive math suggests. Both caveats are printed
-explicitly and included in the exported summary.
+returns well before the naive math suggests.
 
-Run:    python 04_channel_attribution.py
-Output: outputs/channel_ranking.csv, outputs/reallocation_simulation.csv
+
 """
 
 import os
