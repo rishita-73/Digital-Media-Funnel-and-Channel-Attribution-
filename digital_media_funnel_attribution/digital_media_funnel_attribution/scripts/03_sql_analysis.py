@@ -1,11 +1,9 @@
 """
 03_sql_analysis.py
-Runs the core analysis queries (same as sql/analysis_queries.sql) against
+Runs the core analysis queries against
 media_funnel.db and exports each result as a CSV in outputs/sql_results/
-— these are what you'd import into Power BI.
 
-Run:    python 03_sql_analysis.py
-Output: outputs/sql_results/*.csv (printed to console too)
+
 """
 
 import os
